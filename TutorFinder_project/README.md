@@ -7,7 +7,7 @@
  
 This is a web-application which helps students find tutors based on their input location and subject. This app uses PHP For backend and MySQL database. You can choose Subjects ,Class , Location & Salary etc in this Project.
 
-** Features**
+**Features**
 
 A student can search for tutor when he is only logged in.
 
@@ -18,7 +18,7 @@ There is space for teacher to update when he log in.
 Database file main_db.sql is also included.
 
 
-Student**
+**Student**
 
 1)	Log In Page
 3)	Home Page
@@ -28,7 +28,7 @@ Student**
 7)	Notifications 
 8)	Register as a Student
 
-** Teacher**
+**Teacher**
 
 1)	Log In Page
 2)	Profile Edit Page
@@ -38,12 +38,13 @@ Student**
 6)	Notifications 
 7)	Register as a Teacher
 
-** Front End**
+**Front End**
 -HTML
 -CSS
 -JavaScript
 
-** For Back End**
+**For Back End**
 -PHP
- ** Database **
+ **Database **
+
 -MYSQL
